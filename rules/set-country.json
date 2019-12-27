@@ -2,4 +2,4 @@
     "enabled": true,
     "order": 1,
     "stage": "login_success"
-  }
+}
